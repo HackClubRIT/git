@@ -1,3 +1,3 @@
 # Hack Club RIT
 
-# Hello World
+# Hello Irene
